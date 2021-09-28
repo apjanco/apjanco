@@ -9,8 +9,9 @@
 
 - 💬 Ask me about **FastAPI, Django, spaCy**
 
-- 📫 How to reach me **ajanco@haverford.edu**
+- 📫 How to reach me **ajanco@haverford.edu**  
 
+![vax](https://img.shields.io/badge/vaccinated-moderna-orange)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/apjanco" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" alt="apjanco" height="30" width="40" /></a>
