@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **FastAPI, Django, spaCy**
 
-- 📫 How to reach me **apjanco@upenn.edu**  
+- 📫 How to reach me **apjanco@princeton.edu**  
 
 ![vax](https://img.shields.io/badge/vaccinated-moderna-orange)
 <h3 align="left">Connect with me:</h3>
